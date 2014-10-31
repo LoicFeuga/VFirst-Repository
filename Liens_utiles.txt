@@ -8,7 +8,3 @@
  Testeur de site sur différent device :           http://quirktools.com/screenfly/
 
  Text to ASCII :                                  http://patorjk.com/software/taag/ 
-
- Récupérateur de site web :                       http://httrackonline.eu/ 
-
- Générateur d'email temporaire :                  http://fr.getairmail.com/ 
